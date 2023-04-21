@@ -2,7 +2,7 @@
 ### Servidor Multi-Threaded de Chat<br>
 <p>Este é um repositório para um projeto de servidor multi-threaded de chat, criado como parte do aprendizado adquirido durante a aula de usabilidade da faculdade. O objetivo do projeto é demonstrar a capacidade de criar um servidor de chat que possa lidar com várias conexões simultâneas.</p>
 
-### Funcionalidades
+## Funcionalidades
 <p>O servidor de chat é capaz de suportar várias conexões simultâneas, permitindo que os usuários se comuniquem em tempo real. O servidor tem as seguintes funcionalidades:</p>
 
 <p>Cada usuário tem um nome de usuário exclusivo.</p>
@@ -10,9 +10,9 @@
 <p>Os usuários podem se desconectar do servidor.</p>
 
 ## Tecnologias Utilizadas
-*Java
-*Biblioteca Socket
-*Multi-Threading
+- Java
+- Biblioteca Socket
+- Multi-Threading
 ## Como Usar
 Para executar o servidor de chat, execute o arquivo server.java a partir da linha de comando.
 
