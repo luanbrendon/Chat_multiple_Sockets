@@ -1,9 +1,9 @@
 # Chat_multiple_Sockets
-Servidor Multi-Threaded de Chat
-Este é um repositório para um projeto de servidor multi-threaded de chat, criado como parte do aprendizado adquirido durante a aula de usabilidade da faculdade. O objetivo do projeto é demonstrar a capacidade de criar um servidor de chat que possa lidar com várias conexões simultâneas.
+###Servidor Multi-Threaded de Chat<br>
+<p>Este é um repositório para um projeto de servidor multi-threaded de chat, criado como parte do aprendizado adquirido durante a aula de usabilidade da faculdade. O objetivo do projeto é demonstrar a capacidade de criar um servidor de chat que possa lidar com várias conexões simultâneas.</p>
 
-Funcionalidades
-O servidor de chat é capaz de suportar várias conexões simultâneas, permitindo que os usuários se comuniquem em tempo real. O servidor tem as seguintes funcionalidades:
+###Funcionalidades
+<p>O servidor de chat é capaz de suportar várias conexões simultâneas, permitindo que os usuários se comuniquem em tempo real. O servidor tem as seguintes funcionalidades:</p>
 
 Cada usuário tem um nome de usuário exclusivo.
 Os usuários podem enviar mensagens uns aos outros.
