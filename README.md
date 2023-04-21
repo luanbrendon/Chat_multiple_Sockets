@@ -14,9 +14,9 @@
 - Biblioteca Socket
 - Multi-Threading
 ## Como Usar
-Para executar o servidor de chat, execute o arquivo server.java a partir da linha de comando.
+Para executar o servidor de chat, execute o arquivo server.java.
 
-Para se conectar ao servidor, execute o arquivo client.java a partir da linha de comando e siga as instruções para inserir o endereço IP do servidor e o nome de usuário.
+Para se conectar ao servidor, execute o arquivo client.java e siga as instruções para inserir o endereço IP do servidor e o nome de usuário.
 
 Contribuindo
 Este projeto foi criado como parte do aprendizado adquirido durante a aula de usabilidade da faculdade.
